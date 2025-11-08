@@ -11,13 +11,14 @@
             "id": "48ee17694a2a4a6f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Sin título.base",
-                "viewName": "Tabla"
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Sin título"
+              "icon": "lucide-file",
+              "title": "Bienvenido"
             }
           }
         ]
@@ -146,23 +147,35 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "9c8907b7fa6c6764",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "48ee17694a2a4a6f",
